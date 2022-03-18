@@ -190,7 +190,7 @@ input, select, textarea {
 		}
 
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
-			border-bottom: solid 1px #731e7e;
+			border-bottom: solid 1px rgb(74, 25, 119);
 			width: -moz-max-content;
 			width: -webkit-max-content;
 			width: -ms-max-content;
@@ -618,6 +618,8 @@ input, select, textarea {
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
+			color:rgb(74, 25, 119);
+			text-shadow: 0 1px 0 #fff;
 		}
 
 		.icon > .label {
@@ -749,7 +751,7 @@ input, select, textarea {
 		}
 
 			ul.alt li {
-				border-top: solid 1px #67dd8b;
+				border-top: solid 1px rgb(74, 25, 119);
 				padding: 0.5em 0;
 			}
 
@@ -1295,7 +1297,7 @@ input, select, textarea {
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid 1px #731e7e;
+			border: solid 1px rgb(74, 25, 119);
 			border-radius: 100%;
 		}
 
@@ -1305,7 +1307,7 @@ input, select, textarea {
 
 		#header .content {
 			border-style: solid;
-			border-color: #731e7e;
+			border-color: rgb(74, 25, 119);
 			border-top-width: 1px;
 			border-bottom-width: 1px;
 			max-width: 100%;
@@ -1344,13 +1346,13 @@ input, select, textarea {
 			margin-bottom: 0;
 			list-style: none;
 			padding-left: 0;
-			border: solid 1px #731e7e;
+			border: solid 1px rgb(74, 25, 119);
 			border-radius: 4px;
 		}
 
 			#header nav ul li {
 				padding-left: 0;
-				border-left: solid 1px #731e7e;
+				border-left: solid 1px rgb(74, 25, 119);
 			}
 
 				#header nav ul li:first-child {
@@ -1385,7 +1387,7 @@ input, select, textarea {
 			left: calc(50% - 1px);
 			width: 1px;
 			height: 100%;
-			background: #731e7e;
+			background: rgb(74, 25, 119);
 		}
 
 		#header nav.use-middle ul li.is-middle {
@@ -1482,7 +1484,7 @@ input, select, textarea {
 
 					#header nav ul li {
 						border-left: 0;
-						border-top: solid 1px #731e7e;
+						border-top: solid 1px rgb(74, 25, 119);
 					}
 
 						#header nav ul li:first-child {
