@@ -618,8 +618,8 @@ input, select, textarea {
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
-			color:rgb(74, 25, 119);
-			text-shadow: 0 1px 0 #fff;
+			color:#ffffff;
+			
 		}
 
 		.icon > .label {
